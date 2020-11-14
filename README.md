@@ -10,6 +10,9 @@ Coming Soon (TM)
 
 Like the underlaying Rust library, this library does not make any guarantees about constant-time operations, memory access patterns, or resistance to side-channel attacks. Unlike the Rust library, there's a decent chance some things here are straight-up implemented incorrectly.
 
+## Other Disclaimers
+Interfaces are liable to change on a whim, features will mostly be added as I need them.
+
 ## License
 
 Licensed under either of
